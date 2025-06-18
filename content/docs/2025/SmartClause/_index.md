@@ -1,4 +1,4 @@
 ---
 bookCollapseSection: true
-title: "Smart Clause"
+title: "SmartClause"
 ---
