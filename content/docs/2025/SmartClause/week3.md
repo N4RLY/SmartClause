@@ -56,7 +56,7 @@ title: "Week #3"
 
 ![MVP Demo](https://github.com/IU-Capstone-Project-2025/SmartClause/blob/main/course-metadata/week3/mvp-demo.mp4)
 
-**🌐 Live Demo**: Platform deployed and accessible at [SmartClause](http://82.202.138.178:8080/)
+**🌐 Live Demo**: Platform deployed and accessible at [SmartClause](http://158.160.190.57:8080/)
 
 ### API Documentation
 
